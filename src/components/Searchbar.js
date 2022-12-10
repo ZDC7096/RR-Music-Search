@@ -1,4 +1,3 @@
-// SeachBar.js
 import { useState } from 'react'
 
 function SeachBar(props) {
